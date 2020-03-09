@@ -2,7 +2,7 @@ alembic==1.4.0
 appdirs==1.4.3
 attrs==19.3.0
 black==19.10b0
-Click==7.0
+Click==7.1.1
 flake8==3.7.9
 Flask==1.1.1
 Flask-Migrate==2.5.2
